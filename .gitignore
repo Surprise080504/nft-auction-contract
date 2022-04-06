@@ -1,0 +1,9 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+coverage
+coverage.json
+secretsManager.js
+.DS_Store
